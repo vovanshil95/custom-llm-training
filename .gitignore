@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+custom_ru_tokenizer.json
+Llama-ru-250M/
+tokenized_dataset/
+wandb/
